@@ -20,5 +20,17 @@ console.log(booleanVal)*/
 let num = 33
 
 let strVal = String(num)
-console.log(typeof strVal)
-console.log(strVal)
+//console.log(typeof strVal)
+//console.log(strVal)
+
+//*************** OPRATIONS*/
+
+let str1 = "Abdul"
+let str2 = " Ahad"
+let str3 = str1 + str2
+console.log(str3)
+
+console.log("1"+2);//12
+console.log(1+"2");//12
+console.log("1"+2 +2);//122
+console.log(1+2+"2");//32
